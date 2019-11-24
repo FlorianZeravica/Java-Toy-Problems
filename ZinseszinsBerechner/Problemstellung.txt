@@ -1,0 +1,12 @@
+Schreiben Sie ein Programm zur Zinseszinsberechnung. Das Konsolenprogramm soll den
+anzulegenden Geldbetrag, den Jahreszins und die Laufzeit in Jahren abfragen.
+Danach soll für jedes Laufjahr der Geldbetrag mit Zinseszins ausgegeben werden.
+Etwa so:
+Konsolenausgabe:
+
+Geldbetrag in Euro: 150
+Jahreszins (0.05 = 5%): 0.04
+Laufzeit in Jahren: 3
+Wert nach 1 Jahr: 156,00 Euro
+Wert nach 2 Jahren: 162,24 Euro
+Wert nach 3 Jahren: 168,73 Euro

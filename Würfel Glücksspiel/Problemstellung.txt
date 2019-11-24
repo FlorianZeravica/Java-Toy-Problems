@@ -1,0 +1,3 @@
+Das Programm soll ein einfaches Glücksspiel simulieren.
+Lassen Sie 2 Zufallszahlen zwischen 1-6 ausgeben, die höhere Zahl gewinnt.
+Wiederholen sie das Würfeln solange, bis der Anwender gewinnt.
